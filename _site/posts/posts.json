@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-08-04-second-post/",
+    "title": "Second post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Santiago Sotelo",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-08-04",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nCosas randoms de la vida.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-04T00:37:31-05:00",
+    "input_file": "second-post.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My website",
     "description": "Welcome to our new blog, My website. We hope you enjoy \nreading what we have to say!",
